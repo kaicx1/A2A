@@ -59,4 +59,4 @@ https://echo-a2a-agent-144286160544.us-central1.run.app
 
 
 
-![SequenceDiagram](A2A/image.png)
+![SequenceDiagram](image.png)

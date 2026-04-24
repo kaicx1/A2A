@@ -30,3 +30,9 @@ bash cloud/deploy_cloud_run.sh
 gcloud auth application-default login
 python3 cloud/deploy_agent_engine.py
 ```
+
+**Services STOPPED**
+
+project-8e9cb3d7-1996-49fa-ad0
+
+https://echo-a2a-agent-144286160544.us-central1.run.app

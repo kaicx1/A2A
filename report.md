@@ -49,3 +49,10 @@ Reply : Hello from the client!
 46. If a client loses the network connection after sending the POST but before receiving the response, how could it safely retry? What field in the A2A protocol helps with idempotency?
 
     The ID field helps. The A2A will resent the original results instead of generating new results.
+
+    
+**Services STOPPED**
+
+project-8e9cb3d7-1996-49fa-ad0
+
+https://echo-a2a-agent-144286160544.us-central1.run.app
